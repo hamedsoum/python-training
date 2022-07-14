@@ -16,3 +16,4 @@ elif type(value) == list :
     print(value + ' is a list')
 else :
     print('we don\'t know the data type of ' + value)
+ 
